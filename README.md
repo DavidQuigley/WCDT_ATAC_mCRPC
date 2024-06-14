@@ -1,5 +1,5 @@
 # West Coast Dream Team ATAC-seq analysis of mCRPC
-_This code repository is designed to reproduce the analyses described in Shrestha et al., Cancer Research, 2024._
+_This code repository reproduces the analyses described in Shrestha et al., Cancer Research, 2024._
 
 ### Citation
 Shrestha R. et al. An Atlas of Accessible Chromatin in Advanced Prostate Cancer Reveals the Epigenetic Evolution during Tumor Progression. Cancer Research. 2024
