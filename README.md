@@ -28,4 +28,6 @@ The raw sequencing data generated or used in this study are available under the 
 ### 2. Processed data used in this study:
 The processed data and binary files required to reproduce the analyses and figures in this study are too large to publish on GitHub. These files can be obtained at Zenodo at DOI:
 
-[![DOI](https://zenodo.org/badge/DOI/.svg)]()
+DOI 10.5281/zenodo.11660490
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11660491.svg)](https://doi.org/10.5281/zenodo.11660491)
