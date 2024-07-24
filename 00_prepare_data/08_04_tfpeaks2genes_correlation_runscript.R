@@ -7,7 +7,7 @@
 library("stringr")
 
 ### DEFINE PATH ---
-dir.reproduce <- file.path("/data1/projects/WCDT_atac_2020/analysis/reproduce")
+dir.reproduce <- file.path("/data1/projects/WCDT_atac_2020/reproduce")
 file.config_path <- file.path(dir.reproduce, "scripts/config/config_paths.R") 
 source(file.config_path)
 

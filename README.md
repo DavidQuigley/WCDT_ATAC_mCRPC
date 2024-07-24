@@ -1,8 +1,9 @@
 # West Coast Dream Team ATAC-seq analysis of mCRPC
-_This code repository reproduces the analyses described in Shrestha et al., Cancer Research, 2024._
+_This code repository is designed to reproduce the analyses described in Shrestha et al., Cancer Research, 2024._
 
 ### Citation
 Shrestha R. et al. An Atlas of Accessible Chromatin in Advanced Prostate Cancer Reveals the Epigenetic Evolution during Tumor Progression. Cancer Research. 2024
+[https://pubmed.ncbi.nlm.nih.gov/38990734](https://pubmed.ncbi.nlm.nih.gov/38990734)
 
 ### Abstract
 > Metastatic castration-resistant prostate cancer (mCRPC) is a lethal disease that resists therapy targeting androgen signaling, the primary driver of prostate cancer. mCRPC resists androgen receptor (AR) inhibitors by amplifying AR signaling or by evolving into therapy-resistant subtypes that do not depend on AR. Elucidation of the epigenetic underpinnings of these subtypes could provide important insights into the drivers of therapy resistance. In this study, we produced chromatin accessibility maps linked to the binding of lineage-specific transcription factors (TF) by performing ATAC sequencing on 70 mCRPC tissue biopsies integrated with transcriptome and whole genome sequencing. mCRPC had a distinct global chromatin accessibility profile linked to AR function. Analysis of TF occupancy across accessible chromatin revealed 203 TFs associated with mCRPC subtypes. Notably, ZNF263 was identified as a putative prostate cancer TF with a significant impact on gene activity in the double-negative (AR- neuroendocrine-) subtype, potentially activating MYC targets. Overall, this analysis of chromatin accessibility in mCRPC provides valuable insights into epigenetic changes that occur during progression to mCRPC.
@@ -19,7 +20,7 @@ The raw sequencing data generated or used in this study are available under the 
 
 | Data Type | Accession Number | URL                                              |
 |-----------|------------------|--------------------------------------------------|
-| ATAC-seq  | EGAS00001006698  | https://ega-archive.org/datasets/EGAS00001006698 |
+| ATAC-seq  | EGAS00001006698  | https://ega-archive.org/studies/EGAS00001006698  |
 | RNA-seq   | EGAD00001008487  | https://ega-archive.org/datasets/EGAD00001008487 |
 | RNA-seq   | EGAD00001008991  | https://ega-archive.org/datasets/EGAD00001008991 |
 | RNA-seq   | EGAD00001009065  | https://ega-archive.org/datasets/EGAD00001009065 |
